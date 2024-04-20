@@ -1,4 +1,7 @@
 pip install -r requirements.txt - to install all package to run the projects
+
+
+
                             ------------- Part - I ---------------
 
 
